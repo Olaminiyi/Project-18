@@ -183,6 +183,8 @@ terraform apply
 
 Verify the changes terraform.tfstate file is now inside the S3 bucket.
 
+**This is the [link](https://github.com/Olaminiyi/Project-19) to the completed version of this Project which is Project 19**
+
 ![alt text](images/18.17.png)
 
 ![alt text](images/18.23.png)
